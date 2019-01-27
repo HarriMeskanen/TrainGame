@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/asemadata.json</file>
+        <file>resources/ratadata.json</file>
+        <file>resources/ratadatav2.json</file>
+    </qresource>
+</RCC>

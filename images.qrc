@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/coin.png</file>
+        <file>resources/hammer-28636_1280.png</file>
+        <file>resources/medal.png</file>
+        <file>resources/quit.png</file>
+        <file>resources/map.png</file>
+        <file>resources/map_google.png</file>
+        <file>resources/health.png</file>
+        <file>resources/speed.png</file>
+        <file>resources/move_OK.png</file>
+        <file>resources/move_FAIL.png</file>
+        <file>resources/jump.png</file>
+    </qresource>
+</RCC>

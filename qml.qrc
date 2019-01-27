@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GameMapView.qml</file>
+        <file>StartView.qml</file>
+        <file>PlayerTrain.qml</file>
+        <file>TrafficPlace.qml</file>
+        <file>Train.qml</file>
+        <file>VrTrain.qml</file>
+        <file>LeafPile.qml</file>
+        <file>Moose.qml</file>
+        <file>SettingsView.qml</file>
+        <file>MenuView.qml</file>
+        <file>LoadingView.qml</file>
+        <file>ClickIndicator.qml</file>
+        <file>ServiceView.qml</file>
+        <file>AchievementView.qml</file>
+        <file>GameEndView.qml</file>
+    </qresource>
+</RCC>
